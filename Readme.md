@@ -1,0 +1,1 @@
+This project focuses on Practices the database communications 
